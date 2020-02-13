@@ -1,0 +1,14 @@
+
+data/*
+data/gaul/*
+out/*
+plots/*
+plots/variables/*
+cache/*
+!data/.gitkeep
+!data/gaul/.gitkeep
+!out/.gitkeep
+!plots/.gitkeep
+!plots/variables/.gitkeep
+!cache/.gitkeep
+
